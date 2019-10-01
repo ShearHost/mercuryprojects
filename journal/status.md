@@ -1,8 +1,11 @@
 ---
-date: 0000-01-01
-author: Jadon Phillips
+date: 2019-10-01
+author: StatusBot
 title: Status Page
-excerpt: Real-Time Stats for our Website.
+excerpt: |-
+  Real-Time statistics for our Website, Projects, etc.
+
+  (The publish date will not change upon a new status update.)
 
 ---
 **Website Build**
