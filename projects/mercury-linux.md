@@ -11,4 +11,4 @@ project_fg_color: ''
 
 Mercury Linux is designed with simplicity in mind. Mercury Linux comes with a lightweight, graphic installer to make installation simple.
 
-    {{% tip %}} More information, such as release dates, will be provided soon. {{% /tip %}}
+_More information, such as release dates and features, will be released soon._
