@@ -2,11 +2,11 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: "Portfolio",
-  siteUrl: `https://www.itsnwa.com`,
+  siteName: "Projects",
+  siteUrl: `https://mercuryprojects.netlify.com`,
   host: "0.0.0.0",
-  titleTemplate: "%s - NWA",
-  siteDescription: "Creative technologist",
+  titleTemplate: "%s - MP",
+  siteDescription: "Software Company",
   plugins: [
     {
       use: "@gridsome/source-filesystem",
