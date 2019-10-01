@@ -1,6 +1,6 @@
 ---
 date: 2019-10-01
-author: Nichlas W. Andersen
+author: Jadon Phillips
 title: Welcome to Mercury Projects
 excerpt: We’re glad you’re here!
 
