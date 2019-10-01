@@ -4,7 +4,7 @@ thumbnail: "/uploads/F8C623B0-A1A1-4420-9A4D-AEF7C1E9B1C2.png"
 title: Mercury Linux
 categories:
 - linux
-project_bg_color: "#E19C9C"
+project_bg_color: "#4BD1DA"
 project_fg_color: ''
 
 ---
