@@ -1,14 +1,26 @@
 ---
 date: 2019-10-01
 author: Jadon Phillips
-title: Welcome to Mercury Projects!
-excerpt: We’re glad you’re here!
+title: Mercury Projects Website Info
+excerpt: Real-Time Stats for our Website.
 
 ---
-**What can I find/do here?**
+**Website Deployment Status**
 
-You can find projects and blog posts here. You can also Contact Us by using the "Say Hi!" button.
+\[!\[Netlify Status\]([https://api.netlify.com/api/v1/badges/e8d461b6-207e-4b78-bcd5-cda67eea7834/deploy-status](https://api.netlify.com/api/v1/badges/e8d461b6-207e-4b78-bcd5-cda67eea7834/deploy-status "https://api.netlify.com/api/v1/badges/e8d461b6-207e-4b78-bcd5-cda67eea7834/deploy-status"))\]([https://app.netlify.com/sites/mercuryprojects/deploys](https://app.netlify.com/sites/mercuryprojects/deploys "https://app.netlify.com/sites/mercuryprojects/deploys"))
 
-**Inquiries?**
+**Projects Management**
 
-Send your inquiries to us using the "Say Hi!" button.
+![](/uploads/operational.PNG)
+
+**Blog**
+
+![](/uploads/operational.PNG)
+
+**Forestry CMS**
+
+![](/uploads/operational.PNG)
+
+**Gridsome Backend**
+
+![](/uploads/operational.PNG)
