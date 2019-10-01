@@ -2,7 +2,7 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: "Projects",
+  siteName: "Mercury Projects",
   siteUrl: `https://mercuryprojects.netlify.com`,
   host: "0.0.0.0",
   titleTemplate: "%s - MP",
