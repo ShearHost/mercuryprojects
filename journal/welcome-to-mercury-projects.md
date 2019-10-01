@@ -27,6 +27,5 @@ excerpt: Real-Time Stats for our Website.
 
 **Project Build Results**
 
-* Mercury Linux:
-
+* Mercury Linux:  
   ![Build Status](https://travis-ci.org/SemiClickbait/mercurylinux.svg?branch=master)
