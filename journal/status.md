@@ -8,10 +8,13 @@ excerpt: |-
   (The publish date will not change upon a new status update.)
 
 ---
+> This status page provides real-time deployment statistics, site frontend and backend status, and Project Management and Deployment statistics.
 
-{{% tip "What is this page?" %}} This status page provides real-time deployment statistics, site frontend and backend status, and Project Management and Deployment statistics. {{% /tip %}}
+
 
 ***
+
+
 
 **Mercury Projects Website**
 
