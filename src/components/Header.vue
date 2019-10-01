@@ -13,7 +13,7 @@
             <nav class="nav right">
                 <g-link class="nav__link" to="/journal">Journal</g-link>
                 <g-link class="nav__link" to="/contact">Say Hi!</g-link>
-                <g-link class="nav__link" to="https://mercuryprojects.netlify.com/journal/welcome-to-mercury-projects">Status</g-link>
+                <g-link class="nav__link" to="/journal/welcome-to-mercury-projects">Status</g-link>
             </nav>
         </div>
     </header>
