@@ -8,13 +8,13 @@ excerpt: |-
   (The publish date will not change upon a new status update.)
 
 ---
-> This status page provides real-time deployment statistics, site frontend and backend status, and Project Management and Deployment statistics.
+
+> This status page provides real-time site frontend and backend status, Project Management and Deployment statistics, and 3rd-Party Service Status.
 
 
+> ⚠️ Found an issue? Report it by contacting issues.mercuryprojects@protonmail.com
 
 ***
-
-
 
 **Mercury Projects Website**
 
