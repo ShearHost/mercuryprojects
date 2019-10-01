@@ -37,4 +37,4 @@ excerpt: |-
 **Project Builds**
 
 * Mercury Linux:  
-  ![Build Status](https://travis-ci.org/SemiClickbait/mercurylinux.svg?branch=master)
+  ![Build Status](https://travis-ci.org/SemiClickbait/mercurylinux-official.svg?branch=master)
