@@ -1,5 +1,5 @@
 ---
-date: 2019-10-01
+date: 0000-01-01
 author: Jadon Phillips
 title: Status Page
 excerpt: Real-Time Stats for our Website.
