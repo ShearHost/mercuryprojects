@@ -12,8 +12,10 @@ This status page provides real-time deployment statistics, site frontend and bac
 
 **Things to know:**
 
-* The date of this page will not change upon a status update. This page is updated in real-time.
-* This page is automatically updated once a new project is created.
+**-** The date of this page will not change upon a status update. This page is updated in real-time.  
+**-** This page is automatically updated once a new project is created.
+
+***
 
 **Mercury Projects Website**
 
