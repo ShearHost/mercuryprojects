@@ -8,12 +8,8 @@ excerpt: |-
   (The publish date will not change upon a new status update.)
 
 ---
-This status page provides real-time deployment statistics, site frontend and backend status, and Project Management and Deployment statistics.
 
-**Things to know:**
-
-**-** The date of this page will not change upon a status update. This page is updated in real-time.  
-**-** This page is automatically updated once a new project is created.
+{{% tip "What is this page?" %}} This status page provides real-time deployment statistics, site frontend and backend status, and Project Management and Deployment statistics. {{% /tip %}}
 
 ***
 
