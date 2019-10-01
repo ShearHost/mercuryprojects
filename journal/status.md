@@ -23,7 +23,7 @@ excerpt: |-
 
 ![](https://cdn.glitch.com/4f84d43e-2d16-401f-b650-fa3a63129bf6%2Foperational.PNG?v=1569954898043)
 
-**Blog**
+**Journal**
 
 ![](https://cdn.glitch.com/4f84d43e-2d16-401f-b650-fa3a63129bf6%2Foperational.PNG?v=1569954898043 "4f84d43e-2d16-401f-b650-fa3a63129bf6%2Foperational.PNG?v=1569954898043")
 
