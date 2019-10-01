@@ -1,6 +1,6 @@
 ---
 date: 2019-10-01
-thumbnail: "/uploads/F8C623B0-A1A1-4420-9A4D-AEF7C1E9B1C2.png"
+thumbnail: "/uploads/AC15D8D2-E721-4877-A70D-5F9046DB6FDC.png"
 title: Mercury Linux
 categories:
 - linux
