@@ -33,6 +33,9 @@ fields:
     required: true
     options:
     - Jadon Phillips
+    - George Balinsky
+    - Jamie Slider
+    - StatusBot
   label: Author
   default: Nichlas W. Andersen
 pages:
