@@ -35,6 +35,3 @@ fields:
   config:
     color_format: Hex
   label: Foreground color
-pages:
-- projects/sunk.md
-- projects/ios-concept.md
