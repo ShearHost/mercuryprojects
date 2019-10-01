@@ -8,7 +8,16 @@ excerpt: |-
   (The publish date will not change upon a new status update.)
 
 ---
-**Website Build**
+This status page provides real-time deployment statistics, site frontend and backend status, and Project Management and Deployment statistics.
+
+**Things to know:**
+
+* The date of this page will not change upon a status update. This page is updated in real-time.
+* This page is automatically updated once a new project is created.
+
+***
+
+**Mercury Projects Website**
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e8d461b6-207e-4b78-bcd5-cda67eea7834/deploy-status)](https://app.netlify.com/sites/mercuryprojects/deploys)
 
