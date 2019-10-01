@@ -32,7 +32,7 @@ fields:
       file: data/authors/nichlas-w-andersen.json
     required: true
     options:
-    - Nichlas W. Andersen
+    - Jadon Phillips
   label: Author
   default: Nichlas W. Andersen
 pages:
