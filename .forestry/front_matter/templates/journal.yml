@@ -36,5 +36,4 @@ fields:
   label: Author
   default: Nichlas W. Andersen
 pages:
-- journal/welcome-to-mercury-projects-1.md
 - journal/welcome-to-mercury-projects.md
