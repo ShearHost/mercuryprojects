@@ -13,7 +13,9 @@ excerpt: |-
 > ⚠️ Found an issue? Report it by contacting
 > **issues.mercuryprojects@protonmail.com**
 
+
 ***
+
 
 **Mercury Projects Website**
 
