@@ -39,4 +39,5 @@ fields:
   label: Author
   default: Nichlas W. Andersen
 pages:
+- journal/newsletter.md
 - journal/status.md
