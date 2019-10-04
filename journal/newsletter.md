@@ -7,4 +7,6 @@ excerpt: Here you can subscribe to our newsletter.
 ---
 **Our Weekly Newsletter** contains information on upcoming projects and projects in development, and information on updates and suggestions.
 
-> [**_Click here_**](http://eepurl.com/gFxeIf) **_to subscribe._**
+> [**Click here**](http://eepurl.com/gFxeIf) to subscribe.
+>
+> (we won’t spam.)
